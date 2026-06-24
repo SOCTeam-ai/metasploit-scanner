@@ -1,0 +1,6 @@
+{
+  "name": "Metasploit Pro Simulator",
+  "description": "An interactive Metasploit Pro cyber security console and penetration testing dashboard simulator, featuring dynamic scanning, exploitation, network topology, active sessions, and an interactive Metasploit command line interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
